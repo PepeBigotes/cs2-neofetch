@@ -1,9 +1,10 @@
 <div align=center>
 <h1><b>CS2 Neofetch</b></h1>
 <h3> <a href="https://github.com/dylanaraps/neofetch">neofetch</a> for Counter-Strike, cuz why not</h3>
-</div>
 
 ![preview](preview.png)
+
+</div>
 
 ## About
 
